@@ -20,7 +20,7 @@ export default function Home() {
          <Blog />
          <Brands />
          {/* Temporary div */}
-         <div className='h-[3000px]'></div>
+         {/* <div className='h-[3000px]'></div> */}
       </main>
    )
 }
