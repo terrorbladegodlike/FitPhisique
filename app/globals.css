@@ -35,3 +35,9 @@
 .active{
   @apply text-accent
 }
+
+/* Swiper Pagination */
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+  @apply bg-accent
+}
