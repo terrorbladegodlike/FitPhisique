@@ -240,7 +240,9 @@ const Footer = () => {
          <div className='text-white border-t border-white/20 py-12'>
             <div className='container mx-auto h-full'>
                <div className='flex items-center justify-between h-full'>
-                  <span>&copy; Copyright 2024 FitPhysique</span>
+                  <span>&copy; Copyright 2024 
+                     <a href="https://fivestars.agency/en/website-creation-moldova.html">Create Website Moldova</a>
+                  </span>
                   <ul className='flex gap-4 text-xl'>
                      <li>
                         <Link
